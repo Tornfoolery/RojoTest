@@ -10,3 +10,4 @@ function generate_name() {
 };
 
 print(`${generate_name()}`)
+print('New Branch')
